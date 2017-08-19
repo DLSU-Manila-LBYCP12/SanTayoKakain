@@ -1,6 +1,7 @@
 # SanTayoKakain
 LBYCP12 Project by Isobe, Navarro and Or
-
-![Screenshot](StartPage.png)
+Additional Implementation 
+Graph Implementation to compute price of the food ordered.
+!Screenshot[Additional.png]
 
 
